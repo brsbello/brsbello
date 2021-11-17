@@ -1,13 +1,13 @@
 ### Hey, você! 👋 Meu nome é Bruno Bello e te convido a conhecer um pouco do meu trabalho e experiência.
 
 - 🔭 Hoje procuro atuar com desenvolvimento front-end.
-- 🌱 Estudando novas tecnologias como: UI/Designer (Figma e InVision), Flutter e Machine Learning.
+- 🌱 Estudando novas tecnologias como: UI/Designer (Figma e InVision), Flutter, Machine Learning e sempre atualizando Kotlin.
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade.
 
 <div align="center">
   <a href="https://github.com/brsbello">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=brsbello&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="485em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsbello&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brsbello&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsbello&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 ## Skills
