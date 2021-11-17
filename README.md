@@ -1,6 +1,6 @@
 ### Hey, você! 👋 Meu nome é Bruno Bello e te convido a conhecer um pouco do meu trabalho e experiência.
 
-- 🔭 Hoje procuro atuar com desenvolvimento front-end.
+- 🔭 Hoje procuro atuar com desenvolvimento mobile.
 - 🌱 Estudando novas tecnologias como: UI/Designer (Figma e InVision), Flutter, Machine Learning e sempre atualizando Kotlin.
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade.
 
